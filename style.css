@@ -1,0 +1,127 @@
+@import url("https://fonts.googleapis.com/css2?family=Patrick+Hand&display=swap");
+/*!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!! */
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  background-size: contain;
+  background-image: url(https://bogatyr.club/uploads/posts/2023-02/thumbs/1675464390_bogatyr-club-p-portal-iz-rika-i-morti-fon-vkontakte-3.jpg);
+}
+
+#characters-list {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+
+#character-list li:hover {
+  transform: translateY(-5px);
+}
+
+#characters-list li {
+  border-radius: 10px;
+  margin: 10px;
+  padding: 20px;
+  text-align: center;
+  width: 300px;
+  font-family: "Patrick Hand", cursive;
+  background-size: cover;
+  background-image: url(https://citaty.info/files/posters/140620.jpg);
+  color: rgb(255, 255, 255);
+}
+
+#characters-list img {
+  height: 200px;
+  margin-bottom: 10px;
+  width: 200px;
+  border-radius: 100px;
+}
+
+#characters-list h2 {
+  font-size: 24px;
+  margin-bottom: 5px;
+  font-family: "Patrick Hand", cursive;
+}
+
+#characters-list p {
+  font-size: 18px;
+  margin: 5px 0;
+  font-family: "Patrick Hand", cursive;
+}
+
+h1 {
+  text-align: center;
+  font-family: "Patrick Hand", cursive;
+  font-size: 60px;
+}
+
+ul {
+  list-style: none;
+  padding: 0;
+}
+
+li {
+  margin-bottom: 10px;
+}
+
+img {
+  width: 100px;
+  height: 100px;
+  margin-right: 10px;
+}
+
+/* /*!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!! */
+
+.block-2 {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 20px;
+}
+
+.character {
+  border-color: black;
+  width: 300px;
+  border-radius: 10px;
+  background-image: url(https://wallpaperengine.info/wp-content/uploads/2018/10/previewfile_1539254657.jpg);
+  background-size: cover;
+}
+
+.character:hover {
+  transform: translateY(-5px);
+}
+
+.character img {
+  width: 300px;
+  height: auto;
+  border-radius: 10px 10px 0 0;
+}
+
+.character h2 {
+  color: white;
+  margin: 10px;
+  font-size: 24px;
+  font-family: "Patrick Hand", cursive;
+  font-weight: bold;
+  text-align: center;
+}
+
+.character p {
+  color: white;
+  font-family: "Patrick Hand", cursive;
+  margin: 5px 10px;
+  font-size: 16px;
+}
+
+.rick {
+  display: block;
+  margin: 0 auto;
+  width: 300px;
+  height: auto;
+}

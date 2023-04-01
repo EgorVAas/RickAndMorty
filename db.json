@@ -1,0 +1,186 @@
+{
+  "characters": [
+    [
+      {
+        "name": "Rick Sanchez",
+        "img": "https://rickandmortyapi.com/api/character/avatar/1.jpeg",
+        "race": "Human",
+        "status": "Alive",
+        "gender": "Male",
+        "motherland": "Earth (C-137)",
+        "location": "Citadel of Ricks"
+      },
+      {
+        "name": "Morty Smith",
+        "img": "https://rickandmortyapi.com/api/character/avatar/2.jpeg",
+        "race": "Human",
+        "status": "Alive",
+        "gender": "Male",
+        "motherland": "unknown",
+        "location": "Citadel of Ricks"
+      },
+      {
+        "name": "Summer Smith",
+        "img": "https://rickandmortyapi.com/api/character/avatar/3.jpeg",
+        "race": "Human",
+        "status": "Alive",
+        "gender": "Female",
+        "motherland": "Earth (Replacement Dimension)",
+        "location": "Earth (Replacement Dimension)"
+      },
+      {
+        "name": "Beth Smith",
+        "img": "https://rickandmortyapi.com/api/character/avatar/4.jpeg",
+        "race": "Human",
+        "status": "Alive",
+        "gender": "Female",
+        "motherland": "Earth (Replacement Dimension)",
+        "location": "Earth (Replacement Dimension)"
+      },
+      {
+        "name": "Jerry Smith",
+        "img": "https://rickandmortyapi.com/api/character/avatar/5.jpeg",
+        "race": "Human",
+        "status": "Alive",
+        "gender": "Male",
+        "motherland": "Earth (Replacement Dimension)",
+        "location": "Earth (Replacement Dimension)"
+      },
+      {
+        "name": "Abadango Cluster Princess",
+        "img": "https://rickandmortyapi.com/api/character/avatar/6.jpeg",
+        "race": "Alien",
+        "status": "Alive",
+        "gender": "Female",
+        "motherland": "Abadango",
+        "location": "Abadango"
+      },
+      {
+        "name": "Abradolf Lincler",
+        "img": "https://rickandmortyapi.com/api/character/avatar/7.jpeg",
+        "race": "Human",
+        "status": "unknown",
+        "gender": "Male",
+        "motherland": "Earth (Replacement Dimension)",
+        "location": "Testicle Monster Dimension"
+      },
+      {
+        "name": "Adjudicator Rick",
+        "img": "https://rickandmortyapi.com/api/character/avatar/8.jpeg",
+        "race": "Human",
+        "status": "Dead",
+        "gender": "Male",
+        "motherland": "unknown",
+        "location": "Citadel of Ricks"
+      },
+      {
+        "name": "Agency Director",
+        "img": "https://rickandmortyapi.com/api/character/avatar/9.jpeg",
+        "race": "Human",
+        "status": "Dead",
+        "gender": "Male",
+        "motherland": "Earth (Replacement Dimension)",
+        "location": "Earth (Replacement Dimension)"
+      },
+      {
+        "name": "Alan Rails",
+        "img": "https://rickandmortyapi.com/api/character/avatar/10.jpeg",
+        "race": "Human",
+        "status": "Dead",
+        "gender": "Male",
+        "motherland": "unknown",
+        "location": "Worldender's lair"
+      },
+      {
+        "name": "Albert Einstein",
+        "img": "https://rickandmortyapi.com/api/character/avatar/11.jpeg",
+        "race": "Human",
+        "status": "Dead",
+        "gender": "Male",
+        "motherland": "Earth (C-137)",
+        "location": "Earth (Replacement Dimension)"
+      },
+      {
+        "name": "Alexander",
+        "img": "https://rickandmortyapi.com/api/character/avatar/12.jpeg",
+        "race": "Human",
+        "status": "Dead",
+        "gender": "Male",
+        "motherland": "Earth (C-137)",
+        "location": "Anatomy Park"
+      },
+      {
+        "name": "Alien Googah",
+        "img": "https://rickandmortyapi.com/api/character/avatar/13.jpeg",
+        "race": "Alien",
+        "status": "unknown",
+        "gender": "unknown",
+        "motherland": "unknown",
+        "location": "Earth (Replacement Dimension)"
+      },
+      {
+        "name": "Alien Morty",
+        "img": "https://rickandmortyapi.com/api/character/avatar/14.jpeg",
+        "race": "Alien",
+        "status": "unknown",
+        "gender": "Male",
+        "motherland": "unknown",
+        "location": "Citadel of Ricks"
+      },
+      {
+        "name": "Alien Rick",
+        "img": "https://rickandmortyapi.com/api/character/avatar/15.jpeg",
+        "race": "Alien",
+        "status": "unknown",
+        "gender": "Male",
+        "motherland": "unknown",
+        "location": "Citadel of Ricks"
+      },
+      {
+        "name": "Amish Cyborg",
+        "img": "https://rickandmortyapi.com/api/character/avatar/16.jpeg",
+        "race": "Alien",
+        "status": "Dead",
+        "gender": "Male",
+        "motherland": "unknown",
+        "location": "Earth (Replacement Dimension)"
+      },
+      {
+        "name": "Annie",
+        "img": "https://rickandmortyapi.com/api/character/avatar/17.jpeg",
+        "race": "Human",
+        "status": "Alive",
+        "gender": "Female",
+        "motherland": "Earth (C-137)",
+        "location": "Anatomy Park"
+      },
+      {
+        "name": "Antenna Morty",
+        "img": "https://rickandmortyapi.com/api/character/avatar/18.jpeg",
+        "race": "Human",
+        "status": "Alive",
+        "gender": "Male",
+        "motherland": "unknown",
+        "location": "Citadel of Ricks"
+      },
+      {
+        "name": "Antenna Rick",
+        "img": "https://rickandmortyapi.com/api/character/avatar/19.jpeg",
+        "race": "Human",
+        "status": "unknown",
+        "gender": "Male",
+        "motherland": "unknown",
+        "location": "unknown"
+      },
+      {
+        "name": "Ants in my Eyes Johnson",
+        "img": "https://rickandmortyapi.com/api/character/avatar/20.jpeg",
+        "race": "Human",
+        "status": "unknown",
+        "gender": "Male",
+        "motherland": "unknown",
+        "location": "Interdimensional Cable"
+      }
+    ]
+  ]
+}
